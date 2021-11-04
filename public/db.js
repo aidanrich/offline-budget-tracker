@@ -1,3 +1,4 @@
+// code mostly taken from nosql miniproject
 let db;
 let budgetVersion;
 

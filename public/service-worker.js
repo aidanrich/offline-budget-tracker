@@ -1,3 +1,5 @@
+// code mostly copied from activities with some changes
+
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
