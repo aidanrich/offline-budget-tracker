@@ -16,6 +16,7 @@
 - You can use the live app on Heroku: https://aqueous-citadel-52972.herokuapp.com
 - On the main page you can input an item with a corresponding dollar amount which you can either add or subtract from your total budget. When you hit submit you will see the item appear below and the graph will change to illustrate the change to your total budget.
 
+![homepage](public/images/Capture.JPG)
    
 ## Credits
 - We used a lot of boiler plate code from our activities and starter code provided by the assignment.
